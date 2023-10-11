@@ -44,18 +44,24 @@ Use NoSQL_analysis_starter.ipynb for this section of the challenge.
 #### Which establishments have a hygiene score equal to 20?
 
 There are 41 establisments with a hygiene score equal to 20.
+Here is a view of the first few (see more in the Jupyter Notebook Analysis)
+![Screenshot 2023-10-10 at 10 15 18 PM](https://github.com/CJunger/nosql-challenge/assets/131617662/bd2b7b3a-70ff-4c90-b2f2-bdfeae30b9d4)
 
-Which establishments in London have a RatingValue greater than or equal to 4?
+#### Which establishments in London have a RatingValue greater than or equal to 4?
 
 There are 87 establisments with a RatingValue greater than or equal to 4.
 
-What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
+#### What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
-Howe and Co Fish and Chips - Van 17
-Lumbini Grocery Ltd T/A Al-Iman
-Atlantic Fish Bar
-Iceland
+Howe and Co Fish and Chips - Van 17, 
+Lumbini Grocery Ltd T/A Al-Iman, 
+Atlantic Fish Bar, 
+Iceland, 
 Volunteer
 
-How many establishments in each Local Authority area have a hygiene score of 0? 
+![Screenshot 2023-10-10 at 10 16 47 PM](https://github.com/CJunger/nosql-challenge/assets/131617662/9f2582df-dfc2-4f44-bdce-48f208d6ab38)
+
+#### How many establishments in each Local Authority area have a hygiene score of 0? 
 Here are the first 10 Local Authority areas in our results with their count of how many establishments have a hygiene score of 0:
+
+![Screenshot 2023-10-10 at 10 19 27 PM](https://github.com/CJunger/nosql-challenge/assets/131617662/2925a867-effe-4895-bbf1-00d09858a2be)
